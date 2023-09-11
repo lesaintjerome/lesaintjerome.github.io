@@ -4,7 +4,7 @@ email: lesaint.jerome@gmail.com - celinelesaint@yahoo.fr
 url: https://lesaintjerome.github.io
 description: "En 2023 et 2024, nous parcourons les 400 et quelques km de la Grande Traversée des Alpes (GTA) ou GR5."
 keywords: "randonnée, GR5, GTA, anniversaire de mariage, 50"
-skills: "De Saint Gingolphe à Mention - 548km - 30507m D+"
+skills: "De Saint Gingolphe à Menton - 548km - 30507m D+"
 meta_author: Jérome Lesaint
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jérôme Lesaint
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Saint Martin d'Uriage
+  #- line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Le thème FreeLancer est gratuit,  <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
