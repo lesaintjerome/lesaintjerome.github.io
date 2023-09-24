@@ -5,7 +5,7 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: Jour 1
-client: Etape 1 - Saint Gingolphe - Chalet de Bise.
+client: Etape 1 - Saint Gingolphe (lol) - Chalet de Bise.
 category: 12km - 1537m D+ - 410m D-
 description: Saint Gingolphe - ... - Chalet de Bise.
 ---
